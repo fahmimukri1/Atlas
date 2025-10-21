@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <a href="http://atlasos.net" target="_blank"><img src="https://gcore.jsdelivr.net/gh/Atlas-OS/branding@main/banners/banner-v3.png" alt="Atlas" width="800"></a>
 </h1>
   <p align="center">
